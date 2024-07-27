@@ -30,3 +30,6 @@ This web page allows users to input a number (N) and generates a specific patter
 
 3. The generated pattern will be displayed on the web page.
 
+4. ## Here's how it looks
+5. ![Pattern](https://github.com/rumpadas1/Print-Pattern/blob/main/Screenshot%20(263).png)
+
